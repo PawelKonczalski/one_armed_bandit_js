@@ -25,9 +25,13 @@ h1 {
 
 .game div {
     height: 30vh;
+    width: 30vh;
     flex-grow: 1;
     margin: 10px;
     border: 5px solid gray;
+    background-size: cover;
+    background-position: center ;
+
 }
 
 .play {
